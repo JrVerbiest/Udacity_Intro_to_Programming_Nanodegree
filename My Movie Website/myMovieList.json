@@ -1,0 +1,41 @@
+{
+  "movie_1" : {
+    "image_title": "The Silence of the Lambs",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=ZWCAf-xLV2k",
+    "movie_release_year": "1991",
+    "movie_genre": "Horror, Thriller"
+  },
+
+  "movie_2" : {
+    "image_title": "Hannibal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Hannibal_movie_poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=eHSYth2wSEk",
+    "movie_release_year": "2001",
+    "movie_genre": "Psychological Horror"
+  },
+
+  "movie_3" : {
+    "image_title": "Red Dragon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Red_Dragon_movie.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=9YGZI01fico",
+    "movie_release_year": "2002",
+    "movie_genre": "Horror, Thriller"
+  },
+
+    "movie_4" : {
+    "image_title": "Star Wars: Episode VII: The Force Awakens",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+    "movie_release_year": "2015",
+    "movie_genre": " Action, Adventure, Fantasy"
+  },
+
+  "movie_5" : {
+    "image_title": "Star Wars: The Last Jedi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=zB4I68XVPzQ",
+    "movie_release_year": "2017",
+    "movie_genre": " Action, Adventure, Fantasy"
+  }
+}
