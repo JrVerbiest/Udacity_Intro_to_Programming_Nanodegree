@@ -1,3 +1,5 @@
+![Intro to Programming](Intro to Programming.png)
+
 # Udacity Intro to Programming Nanodegree
 
 <br>
